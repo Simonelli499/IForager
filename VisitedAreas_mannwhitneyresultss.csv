@@ -1,0 +1,3 @@
+Test,Statistic,P-Value,Significance
+Long battery conditions,25898.0,0.7329948700404562,Non significant difference
+Short battery conditions,26320.5,0.2804545748082813,Non significant difference
